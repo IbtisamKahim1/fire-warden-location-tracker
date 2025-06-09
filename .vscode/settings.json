@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/6b2119bf-d85e-49e8-ae54-a805a4e3c421/resourceGroups/firewarden-app-frontend_group/providers/Microsoft.Web/sites/firewarden-app-frontend",
+    "appService.deploySubpath": "."
+}
